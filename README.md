@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Shivam Sharma
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning HTML/CSS, Javascript
-- 💞️ I’m looking to collaborate on Javascript
-- 📫 You can find me at twitter
+- 👀 I’m interested in front-end development and creating dApps
+- 🌱 I’m currently learning HTML/CSS, Javascript and Solidity
+- 💞️ I’m looking to collaborate on Javascript and Solidity
+- 📫 You can find me on twitter
 
 <!---
 shivamsharma902/shivamsharma902 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
